@@ -1,0 +1,9 @@
+# working material - never published
+source/
+tools/
+work/
+publish.sh
+
+# internal
+files/CHECKSUMS.txt
+img/mark.webp
