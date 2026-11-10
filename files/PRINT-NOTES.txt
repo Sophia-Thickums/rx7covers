@@ -33,7 +33,8 @@ FILES
   FD3S-headlight-cover-LEFT.step   CAD, driver side
   FD3S-headlight-cover-RIGHT.step  CAD, passenger side
 
-  The car is mirrored, the lid is not - left and right are separate files.
+  The two sides are mirror images - left and right are separate files, and you
+  need one of each. Printing the same file twice gives you two of one side.
 
 MEASURED SIZE (per side)
   269.2 x 308.3 x 263.5 mm
